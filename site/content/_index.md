@@ -1,5 +1,5 @@
 ---
-title: Waseem Khan
+title: Waseem Khan's
 title2: Title 2 New
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
