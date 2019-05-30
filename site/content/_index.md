@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a conscience
+title: Waseem Khan
 title2: Title 2 New
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
